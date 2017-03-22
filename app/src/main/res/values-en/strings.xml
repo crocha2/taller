@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">taller</string>
+    <string name="borrar">Clear</string>
+    <string name="edad">Age</string>
+    <string name="error_1">Type your first name</string>
+    <string name="error_2">Type your second name</string>
+    <string name="error_3">Type your last name</string>
+    <string name="error_4">Type your second surname</string>
+    <string name="error_5">Type your age</string>
+    <string name="error_6">Type your sex</string>
+    <string name="mostrar">Show</string>
+    <string name="parte_saludo">Hi</string>
+    <string name="parte_saludo2">your age is</string>
+    <string name="parte_saludo3">and your sex is</string>
+    <string name="primerapellido">Last name</string>
+    <string name="primernombre">First name</string>
+    <string name="segundoapellido">Second surname</string>
+    <string name="registrodepersonas">People Registration</string>
+    <string name="segundonombre">Second name</string>
+    <string name="sexo">sex</string>
+</resources>

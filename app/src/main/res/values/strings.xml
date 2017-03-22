@@ -11,7 +11,11 @@
     <string name="borrar">Borrar</string>
     <string name="error_1">Digite el primer nombre</string>
     <string name="error_2">Digite el segundo nombre</string>
-    <string name="parte_saludo">Hola</string>
+    <string name="error_3">Digite el primer apellido</string>
+    <string name="error_4">Digite el segundo apellido</string>
+    <string name="error_5">Digite la edad</string>
+    <string name="error_6">Digite el sexo</string>
+    <string name="parte_saludo1">Hola</string>
     <string name="parte_saludo2">Tu edad es</string>
     <string name="parte_saludo3">y tu sexo es</string>
 </resources>

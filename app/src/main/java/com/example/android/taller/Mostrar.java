@@ -30,36 +30,10 @@ public class Mostrar extends AppCompatActivity {
         sexo = b.getString("Sexo");
         res = this.getResources();
 
-        //Mensaje de saludo bilingue........
-        aux = res.getString(R.string.parte_saludo)+" "+nomb1+" "+nomb2+" "+apell1+" "+apell2+" "+res.getString(R.string.parte_saludo2)+" "+res.getString(R.string.parte_saludo3);
+        //Mensaje que muestra  bilingue........
+        aux = res.getString(R.string.parte_saludo1)+" "+nomb1+" "+nomb2+" "+apell1+" "+apell2+" "+res.getString(R.string.parte_saludo2)+" "+edad+" "+res.getString(R.string.parte_saludo3)+" "+sexo;
         mostrar.setText(aux);
     }
-/*
-    public class Saludo extends AppCompatActivity {
 
-        private TextView saludo;
-        private Bundle b;
-        private String aux, nomb, apell;
-        private Resources res;
-
-        @Override
-        protected void onCreate(Bundle savedInstanceState) {
-            super.onCreate(savedInstanceState);
-            setContentView(R.layout.activity_saludo);
-
-            saludo = (TextView)findViewById(R.id.txtSaludo);
-            b = getIntent().getExtras();
-            nomb = b.getString("Nombre");
-            apell = b.getString("Apellido");
-            res = this.getResources();
-
-            //Mensaje de saludo bilingue........
-            aux = res.getString(R.string.parte_saludo)+" "+nomb+" "+apell+" "+res.getString(R.string.parte_saludo2);
-            saludo.setText(aux);
-
-        }
-    }
-
-*/
 
 }
