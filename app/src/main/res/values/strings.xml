@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">taller</string>
+    <string name="primernombre">Primer Nombre</string>
+    <string name="registrodepersonas">Registro De Personas</string>
+    <string name="segundonombre">Segundo Nombre</string>
+    <string name="primerapellido">Primer Apellido</string>
+    <string name="segundoapellido">Segundo Apellido</string>
+    <string name="edad">Edad</string>
+    <string name="sexo">Sexo</string>
+    <string name="mostrar">Mostrar</string>
+    <string name="borrar">Borrar</string>
+    <string name="error_1">Digite el primer nombre</string>
+    <string name="error_2">Digite el segundo nombre</string>
+    <string name="parte_saludo">Hola</string>
+    <string name="parte_saludo2">Tu edad es</string>
+    <string name="parte_saludo3">y tu sexo es</string>
+</resources>
